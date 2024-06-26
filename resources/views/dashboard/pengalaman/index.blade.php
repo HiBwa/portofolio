@@ -23,7 +23,7 @@
                                 <th scope="col">Tahun Mulai</th>
                                 <th scope="col">Tahun Selesai</th>
                                 <th scope="col">Action</th>
-                            </tr>
+                                </tforr>
                         </thead>
                         <tbody>
                             @foreach ($data as $key => $item)
